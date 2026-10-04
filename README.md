@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoboticsDistanceTracker
 
 Tracks a robot and game elements on a gray FTC field with a webcam and
@@ -852,3 +853,6 @@ off by 2. Within ±1 went from 40/40 to 38/40, so it was reverted.
 - A 4+1 stacked pile reads 4; the top ball hides mostly behind the others.
 - Nothing has run on real footage yet.
 
+=======
+# RoboticsAutoCreater
+>>>>>>> 41f189d976b3d32a20afef05a5c70e175b72fed2
